@@ -1,4 +1,4 @@
-/* Abhimanyu Kumar 
+/* 
 * This file contains all the impementations of the creature functions
 */
 #include <iostream>
