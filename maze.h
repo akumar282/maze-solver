@@ -1,4 +1,4 @@
-/* Abhimanyu Kumar 
+/*  
 * This file is the header for the Maze class
 *
 */
