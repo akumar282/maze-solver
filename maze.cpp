@@ -1,4 +1,4 @@
-/* Abhimanyu Kumar ;
+/*
 * This file contains all the implentations for the Maze functions
 */
 #include <iostream>
