@@ -1,4 +1,4 @@
-/* Abhimanyu Kumar 
+/*  
 * This file is the driver responsible for testing the 
 * functions of both the Maze and Creature class to solve a given
 * maze in a text file
